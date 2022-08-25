@@ -35,6 +35,5 @@
   <p>- 🌱 I’m currently learning React & JavaScript
   <p>- 📫 How to reach me: DoubleNico#1763 (Discord)
   <p>- ⚡ Fun fact: Love going to gym and swimming
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=DoubleNico&show_icons=true&theme=gotham" alt="DoubleNico Stats" />
 </div>
 
