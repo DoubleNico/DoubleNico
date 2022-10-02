@@ -13,7 +13,7 @@
  <h2 align="center"> About Me </h2>
   Hello I am DoubleNico, I am 17 years old coffee enjoyer that loves to code a lot. I am a Freelancer Developer and love to try to find lovely things about computers. I love doing websites and handling servers. Mostly I am into Computers Science but on my free time I code a lot of frontend development because it's always an adventure for me, I got into Java by doing Minecraft plugins and I seem to like it. Mostly I wanna challange myself to do very hard things with a blocks game and I like it
   
-  <h2 align="center"> Favourite Languages </h3>
+  <h2 align="center"> My favorite Stuff </h3>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
